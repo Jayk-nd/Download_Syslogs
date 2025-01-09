@@ -7,7 +7,7 @@ The **Download Syslogs** repository provides a Python script to download system 
 
 ## Repository Structure
 - **`download_syslogs.py`**: The Python script to download system logs.
-- **`SYS_LOGS/`**: Folder where downloaded system logs are saved.
+- **`SYS_LOGS/`**: Folder where downloaded system logs are saved (it is created automatically).
 
 ---
 
